@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Register with valid data</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c844dc9c-9c54-4f98-a0eb-48448b92d5a8</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ac09edb5-bd70-490b-b8fd-7a70fece2b4a</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>11aac9e2-142d-4ea5-9474-eaf89a9feab8</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'bakery29'</defaultValue>
+      <description></description>
+      <id>ac09edb5-bd70-490b-b8fd-7a70fece2b4a</id>
+      <masked>false</masked>
+      <name>nama_toko</name>
+   </variable>
+   <variable>
+      <defaultValue>'bakery29@gmail.com'</defaultValue>
+      <description></description>
+      <id>11aac9e2-142d-4ea5-9474-eaf89a9feab8</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+</TestCaseEntity>
